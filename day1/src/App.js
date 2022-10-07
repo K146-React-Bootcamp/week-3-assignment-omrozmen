@@ -6,7 +6,7 @@ import TodoList from "./components/todo-list";
 export default function App() {
   
 	return (
-    <div className="App">
+    <div className="App container">
       <Header />
       {/* <ContactForm /> */}
       <TodoList />
